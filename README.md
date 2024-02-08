@@ -1,2 +1,2 @@
-# hand_gesture
-# By Yamini and Vishal
+# Hand_gesture_recognition
+## By Yamini and Vishal
